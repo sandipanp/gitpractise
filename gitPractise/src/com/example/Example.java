@@ -11,6 +11,9 @@ public class Example {
 		return a + b + c;
 	}
 	
+	int mul( int a, int b, int c) {
+		return a*b*c;
+	}
 	int sub(int a, int c) {
 		return a-c;
 	}
