@@ -12,9 +12,9 @@ public class Example {
 		}
 		return 0;
 	}
-	
-	int add(int b , int a, int c) {
-		System.out.println("New comment : abc");
+
+	int add(int c , int a, int b ) {
+		System.out.println("New comment : something");
 		return a + b + c;
 	}
 	
