@@ -13,8 +13,8 @@ public class Example {
 		return 0;
 	}
 	
-	int add(int a , int b, int c) {
-		System.out.println("New comment");
+	int add(int c , int a, int b ) {
+		System.out.println("New comment : something");
 		return a + b + c;
 	}
 	
