@@ -6,6 +6,13 @@ public class Example {
 	int b = 20;
 	int c = 30;
 	
+	int div( int a , int b) {
+		if(b!=0) {
+			return a/b;
+		}
+		return 0;
+	}
+	
 	int add(int a , int b, int c) {
 		System.out.println("New comment");
 		return a + b + c;
