@@ -6,8 +6,9 @@ public class Example {
 	int b = 20;
 	int c = 30;
 	
-	int add(int a , int b) {
-		return a + b;
+	int add(int a , int b, int c) {
+		System.out.println("New comment");
+		return a + b + c;
 	}
 	
 	int sub(int a, int c) {
