@@ -14,7 +14,7 @@ public class Example {
 	}
 
 	int add(int c , int a, int b ) {
-		System.out.println("New comment : something");
+		System.out.println("New comment : abc");
 		return a + b + c;
 	}
 	
